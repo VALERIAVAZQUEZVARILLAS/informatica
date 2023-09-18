@@ -1,12 +1,3 @@
-#INFORMATICA
-Vazquez Varillas Valeria Sarahi
-Unidad 1.
-Introduccion
-1.1 La computadora y su contexto histórico
-1.2 La disciplina de la computación: contexto histórico, evolución e importancia
-1.3 Partes y funciones de la computadora
-1.4 Adquisición de una computadoraidad 1.
-
 
 
 
