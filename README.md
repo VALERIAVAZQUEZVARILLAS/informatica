@@ -1,3 +1,16 @@
+INFORMATICA
+Vazquez Varillas Valeria Sarahi
+Unidad 1.
+Introduccion
+1.1 La computadora y su contexto histórico
+1.2 La disciplina de la computación: contexto histórico, evolución e importancia
+1.3 Partes y funciones de la computadora
+1.4 Adquisición de una computadoraidad 1.
+
+
+
+
+
 # informatica
 En pseudocódigo, cuando no se definen funciones ni suprocesos, el programa en pseudocódigo sólo incluye la palabra reservada `Algoritmo` o `Proceso`, seguida del nombre del algoritmo que es utilizada para definir el inicio de un algoritmo. Luego, le sigue una secuencia de instrucciones y finaliza con la palabra reservada `FinAlgoritmo` o `FinProceso`.
 
