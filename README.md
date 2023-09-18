@@ -1,4 +1,4 @@
-INFORMATICA
+#INFORMATICA
 Vazquez Varillas Valeria Sarahi
 Unidad 1.
 Introduccion
