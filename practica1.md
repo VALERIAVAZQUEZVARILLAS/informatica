@@ -1,1 +1,1 @@
-<img src="imagenes/tarea1.pnj" width="60"/>
+<img src="imagenes/tarea1.png" width="60"/>
