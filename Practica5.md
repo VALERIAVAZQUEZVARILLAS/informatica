@@ -16,7 +16,7 @@ para almacenar datos*
   tambien se ha utilizado para medir el tamaño de la memoria o de otros dispositivos
 de almacenamiento. La memoria de una computadora que
 puede almacenar 8 millones de bits de información es una memoria de 1 millón de bytes*
-<img src="Imagenes/unidades de medidas de almacenamiento.PNG" alt="tabla1" width="40%"/>
+
 ***dato:***
 Es una representacion simbolica ya sea numerica o alfabetica, cuyo valor esta listo para ser procesado por un ordenador y mostrarlo a un usuario en modo de informacion.*
 .
