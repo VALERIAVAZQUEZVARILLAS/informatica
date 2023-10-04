@@ -4,3 +4,5 @@
 #### En una USB con capacidad mayor al archivo ISO que usará (mayor a 4 GiB) instale el programa para crear el USB live que le permitirá arrancar el sistema operativo a instalar
 #### Investigue los conceptos involucrados: bootear un equipo (guía), BIOS (guía), UEFI (guía), partición (física y lógica, de arranque) (guía), GPT y MBR (guía).
 <img src="imagenes/IMG-4819.jpg"  width="40%"/>
+<img src="imagenes/IMG-4820.jpg"  width="40%"/>
+<img src="imagenes/IMG-4821.jpg"  width="40%"/>
